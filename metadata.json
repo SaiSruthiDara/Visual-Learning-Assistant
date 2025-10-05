@@ -1,0 +1,5 @@
+{
+  "name": "AI Educational Video Generator",
+  "description": "An application that automatically generates educational video-style presentations from a topic or PDF document. It uses AI to summarize content, create dynamic flowcharts and graphs, and provides voice narration to enhance learning and engagement.",
+  "requestFramePermissions": []
+}
